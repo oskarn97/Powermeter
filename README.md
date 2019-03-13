@@ -3,4 +3,4 @@
 
 In order to measure the power consumption in each of my rooms, I've designed this induction-based 8 phase power meter, that can be installed in your electricity box next to your breakers.
 
-![Front](images/front.jpg "Front PCB")
+![Front](images/front.jpg | width=150)
